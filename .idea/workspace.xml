@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2593006-7b38-4e11-af30-90c3e043deb1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/001.two-sum/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/001.two-sum/two-sum.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/002.add-two-numbers/add-two-numbers.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/002.add-two-numbers/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/003.longest-substring-without-repeating-characters/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/006.zigzag-conversion/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/006.zigzag-conversion/zigzag-conversion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/007.reverse-integer/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/007.reverse-integer/reverse-integer.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/009.palindrome-number/palindrome-number.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/009.palindrome-number/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/010.regular-expression-matching/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/010.regular-expression-matching/regular-expression-matching.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/010.regular-expression-matching/regular-expression-matching.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/011.container-with-most-water/container-with-most-water.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/011.container-with-most-water/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/014.longest-common-prefix/longest-common-prefix.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/014.longest-common-prefix/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/015.3sum/3sum.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/015.3sum/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/016.3sum-closest/3sum-closest.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/016.3sum-closest/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/018.4sum/4sum.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/018.4sum/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/019.remove-nth-node-from-end-of-list/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/021.merge-two-sorted-lists/merge-two-sorted-lists.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/021.merge-two-sorted-lists/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/022.generate-parentheses/generate-parentheses.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/022.generate-parentheses/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/023.merge-k-sorted-lists/merge-k-sorted-lists.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/023.merge-k-sorted-lists/merge-k-sorted-lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/023.merge-k-sorted-lists/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/024.swap-nodes-in-pairs/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/024.swap-nodes-in-pairs/swap-nodes-in-pairs.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/025.reverse-nodes-in-k-group/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/025.reverse-nodes-in-k-group/reverse-nodes-in-k-group.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/026.remove-duplicates-from-sorted-array/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/026.remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/028.implement-strstr/implement-strstr.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/028.implement-strstr/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/030.substring-with-concatenation-of-all-words/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/030.substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/031.next-permutation/next-permutation.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/031.next-permutation/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/032.longest-valid-parentheses/longest-valid-parentheses.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/032.longest-valid-parentheses/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/033.search-in-rotated-sorted-array/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/034.search-for-a-range/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/034.search-for-a-range/search-for-a-range.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/035.search-insert-position/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/035.search-insert-position/search-insert-position.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/036.valid-sudoku/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/036.valid-sudoku/valid-sudoku.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/039.combination-sum/combination-sum.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/039.combination-sum/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/040.combination-sum-ii/combination-sum-ii.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/040.combination-sum-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/041.first-missing-positive/first-missing-positive.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/041.first-missing-positive/first-missing-positive.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/041.first-missing-positive/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/043.multiply-strings/multiply-strings.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/043.multiply-strings/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/046.permutations/permutations.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/046.permutations/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/047.permutations-ii/permutations-ii.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/047.permutations-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/048.rotate-image/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/048.rotate-image/rotate-image.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/049.group-anagrams/group-anagrams.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/049.group-anagrams/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/053.maximum-subarray/maximum-subarray.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/053.maximum-subarray/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/054.spiral-matrix/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/054.spiral-matrix/spiral-matrix.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/055.jump-game/jump-game.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/055.jump-game/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/056.merge-intervals/merge-intervals.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/056.merge-intervals/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/059.spiral-matrix-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/059.spiral-matrix-ii/spiral-matrix-ii.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/060.permutation-sequence/permutation-sequence.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/060.permutation-sequence/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/061.rotate-list/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/061.rotate-list/rotate-list.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/062.unique-paths/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/062.unique-paths/unique-paths.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/063.unique-paths-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/063.unique-paths-ii/unique-paths-ii.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/064.minimum-path-sum/minimum-path-sum.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/064.minimum-path-sum/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/070.climbing-stairs/climbing-stairs.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/070.climbing-stairs/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/071.simplify-path/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/071.simplify-path/simplify-path.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/073.set-matrix-zeroes/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/073.set-matrix-zeroes/set-matrix-zeroes.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/074.search-a-2d-matrix/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/074.search-a-2d-matrix/search-a-2d-matrix.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/075.sort-colors/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/075.sort-colors/sort-colors.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/077.combinations/combinations.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/077.combinations/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/078.subsets/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/078.subsets/subsets.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/080.remove-duplicates-from-sorted-array-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/080.remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/082.remove-duplicates-from-sorted-list-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/082.remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/083.remove-duplicates-from-sorted-list/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/083.remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/086.partition-list/partition-list.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/086.partition-list/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/088.merge-sorted-array/merge-sorted-array.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/088.merge-sorted-array/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/089.gray-code/gray-code.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/089.gray-code/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/090.subsets-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/090.subsets-ii/subsets-ii.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/091.decode-ways/decode-ways.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/091.decode-ways/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/092.reverse-linked-list-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/092.reverse-linked-list-ii/reverse-linked-list-ii.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/093.restore-ip-addresses/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/093.restore-ip-addresses/restore-ip-addresses.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/094.binary-tree-inorder-traversal/binary-tree-inorder-traversal.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/094.binary-tree-inorder-traversal/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/096.unique-binary-search-trees/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/096.unique-binary-search-trees/unique-binary-search-trees.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/098.validate-binary-search-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/098.validate-binary-search-tree/validate-binary-search-tree.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/101.symmetric-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/101.symmetric-tree/symmetric-tree.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/102.binary-tree-level-order-traversal/binary-tree-level-order-traversal.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/102.binary-tree-level-order-traversal/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/103.binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/103.binary-tree-zigzag-level-order-traversal/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/104.maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/104.maximum-depth-of-binary-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/105.construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/105.construct-binary-tree-from-preorder-and-inorder-traversal/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/108.convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/108.convert-sorted-array-to-binary-search-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/109.convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/109.convert-sorted-list-to-binary-search-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/110.balanced-binary-tree/balanced-binary-tree.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/110.balanced-binary-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/114.flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/114.flatten-binary-tree-to-linked-list/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/136.single-number/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/136.single-number/single-number.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/137.single-number-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/137.single-number-ii/single-number-ii.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/138.copy-list-with-random-pointer/copy-list-with-random-pointer.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/138.copy-list-with-random-pointer/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/141.linked-list-cycle/linked-list-cycle.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/141.linked-list-cycle/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/142.linked-list-cycle-ii/linked-list-cycle-ii.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/142.linked-list-cycle-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/144.binary-tree-preorder-traversal/binary-tree-preorder-traversal.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/144.binary-tree-preorder-traversal/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/145.binary-tree-postorder-traversal/binary-tree-postorder-traversal.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/145.binary-tree-postorder-traversal/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/146.lru-cache/lru-cache.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/146.lru-cache/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/147.insertion-sort-list/insertion-sort-list.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/147.insertion-sort-list/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/204.count-primes/count-primes.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/204.count-primes/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/206.reverse-linked-list/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/206.reverse-linked-list/reverse-linked-list.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/215.kth-largest-element-in-an-array/kth-largest-element-in-an-array.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/215.kth-largest-element-in-an-array/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/225.implement-stack-using-queues/implement-stack-using-queues.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/225.implement-stack-using-queues/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/230.kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/230.kth-smallest-element-in-a-bst/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/235.lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/235.lowest-common-ancestor-of-a-binary-search-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/236.lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/236.lowest-common-ancestor-of-a-binary-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/260.single-number-iii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/260.single-number-iii/single-number-iii.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/287.find-the-duplicate-number/find-the-duplicate-number.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/287.find-the-duplicate-number/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/300.longest-increasing-subsequence/longest-increasing-subsequence.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/300.longest-increasing-subsequence/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/327.count-of-range-sum/count-of-range-sum.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/327.count-of-range-sum/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/334.increasing-triplet-subsequence/increasing-triplet-subsequence.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/334.increasing-triplet-subsequence/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/365.water-and-jug-problem/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/365.water-and-jug-problem/water-and-jug-problem.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/432.all-oone-data-structure/all-oone-data-structure.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/432.all-oone-data-structure/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/445.add-two-numbers-ii/add-two-numbers-ii.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/445.add-two-numbers-ii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/540.single-element-in-a-sorted-array/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/540.single-element-in-a-sorted-array/single-element-in-a-sorted-array.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/557.reverse-words-in-a-string-iii/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/557.reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/560.subarray-sum-equals-k/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/560.subarray-sum-equals-k/subarray-sum-equals-k.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/646.maximum-length-of-pair-chain/maximum-length-of-pair-chain.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/646.maximum-length-of-pair-chain/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/658.find-k-closest-elements/find-k-closest-elements.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/658.find-k-closest-elements/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/662.maximum-width-of-binary-tree/maximum-width-of-binary-tree.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/662.maximum-width-of-binary-tree/question.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/663.equal-tree-partition/equal-tree-partition.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/663.equal-tree-partition/question.md" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="rename.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rename.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rename.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.rename">
+    <configuration default="false" name="rename" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="solutions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OdpsPythonConfigurationType" factoryName="MaxCompute Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="solutions" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="PROJECT_NAME" value="" />
+      <option name="TABLE_NAME" value="" />
+      <option name="TABLE_COLUMNS" value="" />
+      <option name="TABLE_PARTITION" value="" />
+      <option name="MAIN_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="solutions" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="solutions" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="solutions" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="solutions" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.rename" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.rename" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2593006-7b38-4e11-af30-90c3e043deb1" name="Default" comment="" />
+      <created>1503808108170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503808108170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="MaxCompute Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
